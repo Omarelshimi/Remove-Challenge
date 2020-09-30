@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+canvas {
+    border: 1px solid grey;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: skyblue;
+}
